@@ -25,8 +25,10 @@ hs_err_pid*
 
 #Folder
 
+.DS_Store
+.idea
+
 /target/
-/.idea/
 /.idea/
 /.kube/
 /.minikube/
