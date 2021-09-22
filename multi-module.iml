@@ -246,4 +246,7 @@
     <orderEntry type="library" scope="TEST" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.sun.xml.bind:jaxb-impl:2.3.3" level="project" />
   </component>
+  <component name="Quarkus Tools">
+    <option name="hash" value="739015584" />
+  </component>
 </module>

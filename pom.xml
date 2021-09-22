@@ -9,6 +9,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>bootstrap</module>
+        <module>application</module>
         <module>adapter</module>
     </modules>
     <properties>

@@ -15,6 +15,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="application" />
+    <orderEntry type="library" name="Maven: org.jboss.logmanager:log4j2-jboss-logmanager:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.14.0" level="project" />
     <orderEntry type="module" module-name="adapter" />
     <orderEntry type="library" name="Maven: io.quarkus:quarkus-smallrye-opentracing:2.2.3.Final" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.microprofile.config:microprofile-config-api:2.0" level="project" />
@@ -253,5 +256,8 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.commons:commons-lang3:3.12.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.sun.xml.bind:jaxb-impl:2.3.3" level="project" />
+  </component>
+  <component name="Quarkus Tools">
+    <option name="hash" value="739015584" />
   </component>
 </module>
