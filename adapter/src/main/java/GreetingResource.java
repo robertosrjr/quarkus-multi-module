@@ -1,4 +1,5 @@
 import org.jboss.logging.Logger;
+import port.in.GreetingService;
 
 import javax.inject.Inject;
 import javax.ws.rs.GET;
